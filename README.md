@@ -1,4 +1,4 @@
-# Reduccion-de-las-desigualdades
+# Reduccion de las desigualdades
 <html lang="es">
 <head>
     <meta charset="UTF-8">
