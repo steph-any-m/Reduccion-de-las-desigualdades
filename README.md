@@ -1,6 +1,4 @@
 # Reduccion-de-las-desigualdades
-Explicar y dar a entender lo malo que es la desigualdad y crear compasión 
-<!DOCTYPE html>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
